@@ -1,6 +1,6 @@
 <?php
 return [
-    'name' => 'FreeCodeTube',
+    'name' => '',
     'aliases' => [
         '@bower' => '@vendor/bower-asset',
         '@npm'   => '@vendor/npm-asset',
