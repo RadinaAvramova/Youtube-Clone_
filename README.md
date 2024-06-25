@@ -23,10 +23,6 @@ Features
  - Global search to search videos by title, description or tags
  - History page
 
-Demo
-====
-
-If you want to see working demo of the application [click here](https://freecodetube.thecodeholic.com/)
 
 Installation
 ============
@@ -39,7 +35,7 @@ The minimum requirement by this project template is that your Web server support
 
 ##### Clone the repository from github.
 
-    git clone git@github.com:thecodeholic/Yii2-Youtube-Clone.git [YourDirectoryName]
+    git clone git@github.com:RadinaAvramova/Youtube-Clone_.git [YourDirectoryName]
     
 The command installs the project in a directory named `YourDirectoryName`. You can choose a different
 directory name if you want.
