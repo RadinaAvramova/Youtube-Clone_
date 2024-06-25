@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 11/12/2020
- * Time: 9:19 AM
- */
+
 
 /** @var $model \common\models\Comment */
 
