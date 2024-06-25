@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 11/14/2020
- * Time: 9:45 AM
- */
+
 
 /** @var $this \yii\web\View */
 /** @var $model \common\models\Comment */
