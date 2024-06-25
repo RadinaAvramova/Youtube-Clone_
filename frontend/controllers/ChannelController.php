@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 4/18/2020
- * Time: 9:48 AM
- */
+
 
 namespace frontend\controllers;
 
@@ -18,8 +14,6 @@ use yii\web\NotFoundHttpException;
 
 /**
  * Class ChannelController
- *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
  * @package frontend\controllers
  */
 class ChannelController extends Controller
@@ -90,7 +84,6 @@ class ChannelController extends Controller
      * @param $username
      * @return \common\models\User|null
      * @throws \yii\web\NotFoundHttpException
-     * @author Zura Sekhniashvili <zurasekhniashvili@gmail.com>
      */
     protected function findChannel($username)
     {
