@@ -61,7 +61,6 @@ class User extends ActiveRecord implements IdentityInterface
     /**
      * @return \yii\db\ActiveQuery
      * @throws \yii\base\InvalidConfigException
-     * @author Zura Sekhniashvili <zurasekhniashvili@gmail.com>
      */
     public function getSubscribers()
     {
