@@ -1,9 +1,4 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 11/12/2020
- * Time: 8:58 AM
- */
 
 namespace frontend\controllers;
 
@@ -20,8 +15,6 @@ use yii\web\Response;
 
 /**
  * Class CommentController
- *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
  * @package frontend\controllers
  */
 class CommentController extends Controller
