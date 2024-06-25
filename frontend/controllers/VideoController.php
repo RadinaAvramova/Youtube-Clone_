@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 4/17/2020
- * Time: 11:56 AM
- */
+
 
 namespace frontend\controllers;
 
@@ -20,8 +16,6 @@ use yii\web\NotFoundHttpException;
 
 /**
  * Class VideoController
- *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
  * @package frontend\controllers
  */
 class VideoController extends Controller
