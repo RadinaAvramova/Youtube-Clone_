@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 4/18/2020
- * Time: 9:23 AM
- */
+
 /** @var $model \common\models\Video */
 
 use yii\helpers\Url;
