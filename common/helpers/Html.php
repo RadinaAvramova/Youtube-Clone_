@@ -1,9 +1,5 @@
 <?php
-/**
- * User: TheCodeholic
- * Date: 4/18/2020
- * Time: 10:18 AM
- */
+
 
 namespace common\helpers;
 
@@ -12,8 +8,6 @@ use yii\helpers\Url;
 
 /**
  * Class Html
- *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
  * @package common\helpers
  */
 class Html
